@@ -59,7 +59,6 @@ function repositoryEvent(e) {
 
 function showElem(e) {
   myTarget = newArr[e.target.id];
-  console.log(newArr[e.target.id])
   if (!myTarget) {
     searchInput.value = "";
     searchOptions.innerHTML = "";
