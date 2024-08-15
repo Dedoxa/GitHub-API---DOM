@@ -104,7 +104,7 @@ li button {
     background-color: transparent;
     width: 46px;
     height: 43px;
-    background-image: url(/V1.svg), url(/V2.svg);
+    background-image: url('/V1.svg'), url('/V2.svg');
     background-repeat: none;
 }
 li button:hover {
